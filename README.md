@@ -1,4 +1,5 @@
 # health-check
+![CI](https://github.com/FerrowAI/health-check/actions/workflows/ci.yml/badge.svg)
 
 Health check registry with per-check timeout, critical vs. non-critical failures, and express-style handler. Runs checks concurrently, produces detailed report with latencies, and calculates overall status (healthy/degraded/unhealthy).
 
