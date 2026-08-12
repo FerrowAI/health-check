@@ -1,7 +1,7 @@
 # health-check
 > Health check registry with timeout per check, critical flag, and express handler
 
-Health check registry with per-check timeout, critical vs. non-critical failures, and express-style handler. Runs checks concurrently, produces detailed report with latencies, and calculates overall status (healthy/degraded/unhealthy). ```bash npm install health-check
+Health check registry with per-check timeout, critical vs. non-critical failures, and express-style handler. Runs checks concurrently, produces detailed report with latencies, and calculates overall status (healthy/degraded/unhealthy).
 
 ## API
 - `HealthStatus`
