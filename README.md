@@ -15,3 +15,4 @@ health.register('cache', checkCache);
 - ✓ Ferrow agent diagnostics
 
 ## License: MIT
+## Examples
