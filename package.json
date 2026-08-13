@@ -1,1 +1,23 @@
-{"name":"health-check","version":"1.0.0","description":"Health check registry with timeout per check, critical flag, and express handler","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc"},"keywords":["health","check","registry","status","monitoring"],"author":"Ruzylo-cloud","license":"MIT","dependencies":{"@types/node":"^26.2.0","typescript":"^7.0.2"}}
+{
+  "name": "@ferrow/health-check",
+  "version": "1.0.0",
+  "description": "Health check registry with timeout per check, critical flag, and express handler",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "health",
+    "check",
+    "registry",
+    "status",
+    "monitoring"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2"
+  }
+}

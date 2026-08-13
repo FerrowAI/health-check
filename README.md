@@ -6,7 +6,7 @@ Health check registry with per-check timeout, critical vs. non-critical failures
 ## Installation
 
 ```bash
-npm install health-check
+npm install @ferrow/health-check
 ```
 
 ## Quick Start
